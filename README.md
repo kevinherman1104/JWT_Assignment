@@ -13,7 +13,7 @@ Have Node and NPM (Node Package Manager) installed. This uses NPM to manage all 
 
 Clone repository and go to the directory
 ```bash
-git clone https://github.com/SolusiAnakBangsa/Web-Stack.git
+git clone https://github.com/kevinherman1104/JWT_Assignment.git
 ```
 
 Download and install dependencies
