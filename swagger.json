@@ -1,0 +1,20 @@
+{
+  "definition": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "Epic Venue Express REST API with Swagger",
+      "version": "0.1.0",
+      "description": "Epiccest venue express REST API made in BINUS",
+      "license": {
+        "name": "MIT",
+        "url": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    "servers": [
+      {
+        "url": "/api"
+      }
+    ]
+  },
+  "apis": ["./src/index.js"]
+}
