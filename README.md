@@ -2,9 +2,9 @@
 
 This is group 7's submission on JWT assignment.
 
-Group 7 :
-Jason Christian
-Kevin Herman Otnieliem
+Group 7 :<br />
+Jason Christian<br />
+Kevin Herman Otnieliem<br />
 Nicholas Arthur
 
 # Usage
