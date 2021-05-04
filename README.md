@@ -14,7 +14,6 @@ Have Node and NPM (Node Package Manager) installed. This uses NPM to manage all 
 Clone repository and go to the directory
 ```bash
 git clone https://github.com/SolusiAnakBangsa/Web-Stack.git
-cd Web-Stack
 ```
 
 Download and install dependencies
