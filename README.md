@@ -27,7 +27,7 @@ Run the development server
 npm run start
 ```
 
-Next, open a new terminal/command prompt (while still running the port) <br />DO NOT CLOSE THE PORT<br />
+Next, open a new terminal/command prompt (while still running the port) <br />NOTE: DO NOT CLOSE THE PORT!!<br />
 In the new terminal, type the command below to get the authentication code:
 ```bash
 curl -d "username=nakamarusun&id=1&password=bruh" -X POST http://localhost:8080/login
@@ -36,5 +36,5 @@ After you get the code, type the command below:
 ```bash
 curl -H 'Accept: application/json' -H "Authorization: Bearer #TOKEN" http://localhost:8080/api/venues/
 ```
-NOTE replace THE #TOKEN with the authentiaction token you get from the previous command.
+NOTE: replace THE #TOKEN with the authentiaction token you get from the previous command.
 
