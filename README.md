@@ -39,7 +39,7 @@ After you get the code, type the command below:
 ```bash
 curl -H 'Accept: application/json' -H "Authorization: Bearer #TOKEN" http://localhost:8080/api/venues/
 ```
-NOTE: replace THE #TOKEN with the authentiaction token you get from the previous command.<br />
+NOTE: replace The #TOKEN with the authentiaction token you get from the previous command.<br />
 You will get this output:
 ![image](https://user-images.githubusercontent.com/57943690/117020927-11420f00-ad21-11eb-94f9-64f74124b6da.png)
 
