@@ -22,7 +22,7 @@ Download and install dependencies
 npm install
 ```
 
-Run the development server for the game
+Run the development server
 ```bash
 npm run start
 ```
